@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Manoka Pitjeng 👋</h1>
 
-<h3 align="center">Cybersecurity | IAM & PAM | Azure Cloud | Security Operations</h3>
+<h3 align="center">Information Security Administrator(PAM)| Azure Cloud Administrator | IT Support Technician </h3>
 
 <p align="center">
   <a href="mailto:pitjengmanoka@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pitjengmanoka@gmail.com-blue?style=flat-square&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-manokapitjeng@gmail.com-blue?style=flat-square&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-Manoka%20Pitjeng-blue?style=flat-square&logo=linkedin">
   </a>
-  <a href="https://github.com/pitjengmanoka">
+  <a href="https://github.com/manokapitjeng">
     <img src="https://img.shields.io/badge/GitHub-pitjengmanoka-black?style=flat-square&logo=github">
   </a>
 </p>
