@@ -111,34 +111,6 @@ My goal is to grow into a strong Cybersecurity / Cloud Security / IAM / PAM prof
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pitjengmanoka" alt="GitHub Streak Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pitjengmanoka&show_icons=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitjengmanoka&layout=compact" alt="Top Languages">
-</p>
-
----
-
-## Projects I Am Building
-
-- Azure security lab projects  
-- IAM and PAM documentation projects  
-- Microsoft Sentinel monitoring labs  
-- Defender for Endpoint learning projects  
-- Cybersecurity investigation write-ups  
-- Cloud security beginner projects  
-- Data analysis projects using Python and Excel  
-
----
-
 ## Areas of Interest
 
 - Cloud Security  
