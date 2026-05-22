@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Manoka%20Pitjeng-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="https://github.com/manokapitjeng">
-    <img src="https://img.shields.io/badge/GitHub-pitjengmanoka-black?style=flat-square&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-manokapitjeng-black?style=flat-square&logo=github">
   </a>
 </p>
 
@@ -18,13 +18,13 @@
 
 ## About Me
 
-I am an early-career cybersecurity professional based in South Africa, with practical experience in Identity and Access Management, Privileged Access Management, IT support, cloud security, and security operations.
+## About Me
 
-I have worked in a banking technology environment, supporting access management, privileged access processes, endpoint least privilege, incident handling, security documentation, and user support. My experience includes Microsoft Entra ID, Active Directory, Microsoft 365, ServiceNow, Azure, and BeyondTrust PAM.
+I am an early-career cybersecurity, IT Support, Cloud, and Business analysis professional based in Midrand, Gauteng, with experience in IT support, security operations(Privilege Access Management) , and cloud technologies(Azure).
 
-I am Microsoft certified across Azure, security, identity, and cloud fundamentals. I am currently building my skills further in cloud security, identity governance, security operations, and practical cybersecurity projects.
+I have worked in a banking & government environments, supporting access management, privileged access processes, endpoint least privilege, incident handling, security documentation, and user support. I also have a Business Analysis qualification, which supports my understanding of systems, requirements, processes, and business problem-solving.
 
-My goal is to grow into a strong Cloud Security / IAM / PAM / Cybersecurity Analyst professional who can help organisations protect users, systems, identities, and cloud environments.
+My goal is to grow into a strong Cybersecurity / Cloud Security / IAM / PAM professional, while also being open to Business Analysis-related opportunities where I can use both my technical and business knowledge.
 
 ---
 
@@ -36,8 +36,8 @@ My goal is to grow into a strong Cloud Security / IAM / PAM / Cybersecurity Anal
 - Microsoft Entra ID and Active Directory  
 - Security Operations and Incident Response  
 - Endpoint Least Privilege  
-- Security Monitoring and Documentation  
-- Practical Cybersecurity Labs and Projects  
+- Security Monitoring and Documentation
+- Business Analysis 
 
 ---
 
@@ -45,11 +45,28 @@ My goal is to grow into a strong Cloud Security / IAM / PAM / Cybersecurity Anal
 
 ### Cloud & Identity
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-  <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
+## Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/ff84b2f6-b5c3-437b-9522-1700f83f4337/public_url" target="_blank">
+    <img src="IMAGES/az900.png" alt="Microsoft Azure Fundamentals AZ-900" width="120">
+  </a>
+
+  <a href="https://www.credly.com/badges/f2b257a8-b1df-417c-995f-77833f3a745a/public_url" target="_blank">
+    <img src="IMAGES/dp900.webp" alt="Microsoft Azure Data Fundamentals DP-900" width="120">
+  </a>
+
+  <a href="https://www.credly.com/badges/7173f90a-0185-4577-b676-50e75131e08d/public_url" target="_blank">
+    <img src="IMAGES/sc900.png" alt="Microsoft Security, Compliance, and Identity Fundamentals SC-900" width="120">
+  </a>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ManokaPitjeng-7024/86F6AC018C9F35D0?sharingId=A85CCD5C839C3AB" target="_blank">
+    <img src="IMAGES/sc300.png" alt="Microsoft Identity and Access Administrator SC-300" width="120">
+  </a>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ManokaPitjeng-7024/394B3FD56A62B995?sharingId=A85CCD5C839C3AB" target="_blank">
+    <img src="IMAGES/sc200.png" alt="Microsoft Security Operations Analyst SC-200" width="120">
+  </a>
 </p>
 
 ### Cybersecurity
