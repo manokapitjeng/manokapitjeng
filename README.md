@@ -49,23 +49,23 @@ My goal is to grow into a strong Cybersecurity / Cloud Security / IAM / PAM prof
 
 <p align="center">
   <a href="https://www.credly.com/badges/ff84b2f6-b5c3-437b-9522-1700f83f4337/public_url" target="_blank">
-    <img src="IMAGES/az900.png" alt="Microsoft Azure Fundamentals AZ-900" width="120">
+    <img src="https://raw.githubusercontent.com/manokapitjeng/Portfolio/main/IMAGES/az900.png" alt="AZ-900" width="120">
   </a>
 
   <a href="https://www.credly.com/badges/f2b257a8-b1df-417c-995f-77833f3a745a/public_url" target="_blank">
-    <img src="IMAGES/dp900.webp" alt="Microsoft Azure Data Fundamentals DP-900" width="120">
+    <img src="https://raw.githubusercontent.com/manokapitjeng/Portfolio/main/IMAGES/dp900.webp" alt="DP-900" width="120">
   </a>
 
   <a href="https://www.credly.com/badges/7173f90a-0185-4577-b676-50e75131e08d/public_url" target="_blank">
-    <img src="IMAGES/sc900.png" alt="Microsoft Security, Compliance, and Identity Fundamentals SC-900" width="120">
+    <img src="https://raw.githubusercontent.com/manokapitjeng/Portfolio/main/IMAGES/sc900.png" alt="SC-900" width="120">
   </a>
 
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/ManokaPitjeng-7024/86F6AC018C9F35D0?sharingId=A85CCD5C839C3AB" target="_blank">
-    <img src="IMAGES/sc300.png" alt="Microsoft Identity and Access Administrator SC-300" width="120">
+    <img src="https://raw.githubusercontent.com/manokapitjeng/Portfolio/main/IMAGES/sc300.png" alt="SC-300" width="120">
   </a>
 
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/ManokaPitjeng-7024/394B3FD56A62B995?sharingId=A85CCD5C839C3AB" target="_blank">
-    <img src="IMAGES/sc200.png" alt="Microsoft Security Operations Analyst SC-200" width="120">
+    <img src="https://raw.githubusercontent.com/manokapitjeng/Portfolio/main/IMAGES/sc200.png" alt="SC-200" width="120">
   </a>
 </p>
 
