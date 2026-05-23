@@ -73,24 +73,48 @@ My goal is to grow into a strong Cybersecurity / Cloud Security / IAM / PAM prof
 
 ### Cloud & Microsoft Security
 
-Microsoft Azure | Microsoft Defender for Endpoint | Microsoft Sentinel | Microsoft Defender for Identity
 <p>
-  <img src="assets/icons/cloud-security/snow.jfif" width="70" alt="ServiceNow"/>
-  <img src="assets/icons/cloud-security/splunk.png" width="70" alt="Splunk"/>
+  <img src="assets/icons/cloud-security/azure.png" width="70" alt="Microsoft Azure"/>
+  <img src="assets/icons/cloud-security/defender endpoint.png" width="70" alt="Microsoft Defender for Endpoint"/>
 </p>
 
 
 ### Identity & Access Management
 Active Directory | Microsoft Entra ID | BeyondTrust PAM | CyberArk | SailPoint
 
+<p>
+  <img src="assets/icons/cloud-security/active directory.png" width="70" alt="Active Directory"/>
+  <img src="assets/icons/cloud-security/beyondtrust.png" width="70" alt="BeyondTrust"/>
+  <img src="assets/icons/cloud-security/cyberark.png" width="70" alt="CyberArk"/>
+  <img src="assets/icons/cloud-security/iag.png" width="70" alt="SailPoint / IAG"/>
+</p>
+
 ### Security Operations & Ticketing
 ServiceNow | Splunk | Alert Investigation | Incident Management
+
+Microsoft Azure | Microsoft Defender for Endpoint | Microsoft Sentinel | Microsoft Defender for Identity
+<p>
+  <img src="assets/icons/cloud-security/snow.jfif" width="70" alt="ServiceNow"/>
+  <img src="assets/icons/cloud-security/splunk.png" width="70" alt="Splunk"/>
+</p>
 
 ### Network & Vulnerability Tools
 Nmap | Nessus | Wireshark | Linux
 
+<p>
+  <img src="assets/icons/cloud-security/nmap.jfif" width="70" alt="Nmap"/>
+  <img src="assets/icons/cloud-security/nessus.png" width="70" alt="Nessus"/>
+  <img src="assets/icons/cloud-security/wireshark.jfif" width="70" alt="Wireshark"/>
+  <img src="assets/icons/cloud-security/linux.png" width="70" alt="Linux"/>
+</p>
+
 ### Scripting & Automation
 PowerShell | Python
+
+<p>
+  <img src="assets/icons/cloud-security/powershell.jfif" width="70" alt="PowerShell"/>
+  <img src="assets/icons/cloud-security/python.jfif" width="70" alt="Python"/>
+</p>
 ---
 
 ## Certifications
