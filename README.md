@@ -71,19 +71,19 @@ My goal is to grow into a strong Cybersecurity / Cloud Security / IAM / PAM prof
 
 ## 🛠️ Tools & Platforms I Have Worked With
 
-### ☁️ Cloud & Microsoft Security
+### Cloud & Microsoft Security
 Microsoft Azure | Microsoft Defender for Endpoint | Microsoft Sentinel | Microsoft Defender for Identity
 
-### 🔐 Identity & Access Management
+### Identity & Access Management
 Active Directory | Microsoft Entra ID | BeyondTrust PAM | CyberArk | SailPoint
 
-### 🛡️ Security Operations & Ticketing
+### Security Operations & Ticketing
 ServiceNow | Splunk | Alert Investigation | Incident Management
 
-### 🌐 Network & Vulnerability Tools
+### Network & Vulnerability Tools
 Nmap | Nessus | Wireshark | Linux
 
-### ⚙️ Scripting & Automation
+### Scripting & Automation
 PowerShell | Python
 ---
 
