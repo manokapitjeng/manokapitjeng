@@ -18,8 +18,6 @@
 
 ## About Me
 
-## About Me
-
 I am an early-career cybersecurity, IT Support, Cloud, and Business analysis professional based in Midrand, Gauteng, with experience in IT support, security operations(Privilege Access Management) , and cloud technologies(Azure).
 
 I have worked in a banking & government environments, supporting access management, privileged access processes, endpoint least privilege, incident handling, security documentation, and user support. I also have a Business Analysis qualification, which supports my understanding of systems, requirements, processes, and business problem-solving.
@@ -40,10 +38,6 @@ My goal is to grow into a strong Cybersecurity / Cloud Security / IAM / PAM prof
 - Business Analysis 
 
 ---
-
-## Tech Stack
-
-### Cloud & Identity
 
 ## Certifications
 
@@ -69,7 +63,7 @@ My goal is to grow into a strong Cybersecurity / Cloud Security / IAM / PAM prof
   </a>
 </p>
 
-## 🛠️ Tools & Platforms I Have Worked With
+## Tools & Platforms I Have Worked With
 
 ### Cloud & Microsoft Security
 
