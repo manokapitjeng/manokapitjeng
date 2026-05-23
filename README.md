@@ -75,7 +75,6 @@ My goal is to grow into a strong Cybersecurity / Cloud Security / IAM / PAM prof
 
 <p>
   <img src="assets/icons/cloud-security/azure.png" width="70" alt="Microsoft Azure"/>
-  <img src="assets/icons/cloud-security/defender endpoint.png" width="70" alt="Microsoft Defender for Endpoint"/>
 </p>
 
 
@@ -91,8 +90,6 @@ Active Directory | Microsoft Entra ID | BeyondTrust PAM | CyberArk | SailPoint
 
 ### Security Operations & Ticketing
 ServiceNow | Splunk | Alert Investigation | Incident Management
-
-Microsoft Azure | Microsoft Defender for Endpoint | Microsoft Sentinel | Microsoft Defender for Identity
 <p>
   <img src="assets/icons/cloud-security/snow.jfif" width="70" alt="ServiceNow"/>
   <img src="assets/icons/cloud-security/splunk.png" width="70" alt="Splunk"/>
@@ -100,7 +97,6 @@ Microsoft Azure | Microsoft Defender for Endpoint | Microsoft Sentinel | Microso
 
 ### Network & Vulnerability Tools
 Nmap | Nessus | Wireshark | Linux
-
 <p>
   <img src="assets/icons/cloud-security/nmap.jfif" width="70" alt="Nmap"/>
   <img src="assets/icons/cloud-security/nessus.png" width="70" alt="Nessus"/>
@@ -110,7 +106,6 @@ Nmap | Nessus | Wireshark | Linux
 
 ### Scripting & Automation
 PowerShell | Python
-
 <p>
   <img src="assets/icons/cloud-security/powershell.jfif" width="70" alt="PowerShell"/>
   <img src="assets/icons/cloud-security/python.jfif" width="70" alt="Python"/>
