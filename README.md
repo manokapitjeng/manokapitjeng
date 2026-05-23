@@ -116,4 +116,5 @@ PowerShell | Python
 - Active Directory Security  
 - Fintech and Banking Security  
 - Cybersecurity Governance  
-- AI and Cybersecurity  
+- AI and Cybersecurity
+- IT Support Technician
