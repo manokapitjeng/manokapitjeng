@@ -106,17 +106,6 @@ PowerShell | Python
 </p>
 ---
 
-## Certifications
-
-- Microsoft Certified: Azure Administrator Associate  
-- Microsoft Certified: Security Operations Analyst Associate  
-- Microsoft Certified: Identity and Access Administrator Associate  
-- Microsoft Certified: Azure Fundamentals  
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals  
-- Microsoft Certified: Azure Data Fundamentals  
-
----
-
 ## Areas of Interest
 
 - Cloud Security  
