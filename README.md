@@ -69,44 +69,22 @@ My goal is to grow into a strong Cybersecurity / Cloud Security / IAM / PAM prof
   </a>
 </p>
 
-### Cybersecurity
+## 🛠️ Tools & Platforms I Have Worked With
 
-<p>
-  <img src="https://img.shields.io/badge/IAM-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PAM-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IAG-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Least%20Privilege-FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zero%20Trust-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security%20Operations-DC143C?style=for-the-badge" />
-</p>
+### ☁️ Cloud & Microsoft Security
+Microsoft Azure | Microsoft Defender for Endpoint | Microsoft Sentinel | Microsoft Defender for Identity
 
-### Security Tools
+### 🔐 Identity & Access Management
+Active Directory | Microsoft Entra ID | BeyondTrust PAM | CyberArk | SailPoint
 
-<p>
-  <img src="https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white" />
-  <img src="https://img.shields.io/badge/BeyondTrust%20PAM-0052CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</p>
+### 🛡️ Security Operations & Ticketing
+ServiceNow | Splunk | Alert Investigation | Incident Management
 
-### Data, Scripting & Analysis
+### 🌐 Network & Vulnerability Tools
+Nmap | Nessus | Wireshark | Linux
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="SQL"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" title="Jupyter Notebook"/>
-</p>
-
-### Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" title="VS Code"/>
-  <img src="https://img.shields.io/badge/Azure%20CLI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-</p>
+### ⚙️ Scripting & Automation
+PowerShell | Python
 ---
 
 ## Certifications
